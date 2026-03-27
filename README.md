@@ -18,7 +18,7 @@ This project analyzes real-world data regarding various factors that influence s
 * `figures/` - saved graphs used in the project
 
 ## Research Questions
-1. Do historical academic scores reliably predict current exam success?
-2. How does parental education level impact a student's exam performance across different genders?
-3. Is there a strong correlation between the number of hours studied per week and the final exam score?
-4. How do different levels of access to resources affect average exam outcomes?
+1. Is there a strong relationship between hours studied and exam score?
+2. Is attendance associated with better exam performance?
+3. How do different levels of access to resources affect average exam outcomes?
+4. Which numeric factors are most strongly correlated with exam score?
